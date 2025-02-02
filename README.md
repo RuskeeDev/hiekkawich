@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hiekkawich
+- 👋 Hi, I’m @Sandvich
 - 👀 I’m interested in learning more
 - 🌱 I’m currently learning Gamedev
 - 💞️ I’m looking to collaborate on noithing
